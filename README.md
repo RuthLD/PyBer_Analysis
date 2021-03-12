@@ -5,18 +5,18 @@ The project goal was to analyze all the rideshare data from January to early May
 ## Deliverables:
 Fig 1. is a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban in coral, suburban in light blue, and rural in gold. ![Fig 1.](https://github.com/RuthLD/PyBer_Analysis/blob/main/analysis/Fig1.png)
 ### Descriptive statistics:
-* The total number of rides for each city type.
-      *  The mean ride count for urban cities is 24.62, for suburban cities is 17.36, and for rural cities is 6.94.
-      *  The median ride count for urban cities is 24, for suburban cities is 17, and for rural cities is 6.
-      *  The mode for ride counts in urban cities is 22 and occurs 7 times, for suburban cities is 17 and occurs 7 times, and for rural cities is 6 and occurs 5 times.
-* The average fares for each city type.
-      *  The mean fare price for urban trips is $24.53, for suburban trips is $30.97, and for rural trips is $34.62.
-      *  The median fare price for urban trips is $24.64, for suburban trips is $30.75, and for rural trips is $37.05.
-      *  The mode fare price for urban trips is $22.86 and occurs 5 times, for suburban trips is $17.99 and occurs 3 times, and for rural trips is $37.05 and occurs 2 times.
-* The total number of drivers for each city type.
-      *  The mean driver count for urban cities is 36.678, for suburban cities is 13.712, and for rural cities is 4.296.
-      *  The median driver count for urban cities is 37, for suburban cities is 16, and for rural cities is 4.
-      *  The mode driver count for urban cities is 39 and occurs 86 times, for suburban cities is 20 and occurs 79 times, and for rural cities is 1 and occurs 32 times.
+The total number of rides for each city type.
+* The mean ride count for urban cities is 24.62, for suburban cities is 17.36, and for rural cities is 6.94.
+* The median ride count for urban cities is 24, for suburban cities is 17, and for rural cities is 6.
+* The mode for ride counts in urban cities is 22 and occurs 7 times, for suburban cities is 17 and occurs 7 times, and for rural cities is 6 and occurs 5 times.
+The average fares for each city type.
+* The mean fare price for urban trips is $24.53, for suburban trips is $30.97, and for rural trips is $34.62.
+* The median fare price for urban trips is $24.64, for suburban trips is $30.75, and for rural trips is $37.05.
+* The mode fare price for urban trips is $22.86 and occurs 5 times, for suburban trips is $17.99 and occurs 3 times, and for rural trips is $37.05 and occurs 2 times.
+The total number of drivers for each city type.
+* The mean driver count for urban cities is 36.678, for suburban cities is 13.712, and for rural cities is 4.296.
+* The median driver count for urban cities is 37, for suburban cities is 16, and for rural cities is 4.
+* The mode driver count for urban cities is 39 and occurs 86 times, for suburban cities is 20 and occurs 79 times, and for rural cities is 1 and occurs 32 times.
 ### Box-and-Whisker Plots:
 * The number of rides for each city type are seen in Fig 2.
     * ![Fig 2.](https://github.com/RuthLD/PyBer_Analysis/blob/main/analysis/Fig2.png)
