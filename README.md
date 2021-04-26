@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Project 5 of Data Analysis BootCamp. Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 and use Matplotlib to create a compelling visualization. 
+Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 and use Matplotlib to create a compelling visualization. 
 # Overview:
 The project goal was to analyze all the rideshare data from January to early May of 2019 and create compelling visualizations comparing the city types, urban, suburban, and rural.
 
@@ -39,7 +39,7 @@ The total number of drivers for each city type.
 * Fig 7 is the percent of total drivers.
     * ![Fig 7.](https://github.com/RuthLD/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
-# Challenge Overview:
+# Analysis:
 The goal is to analyze the total weekly fare data to summarize how city types differ. These differences will be used to impact the decisions at Pyber.
 
 ## Results: 
