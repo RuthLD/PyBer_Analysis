@@ -1,10 +1,10 @@
 # PyBer_Analysis
-Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 and use Matplotlib to create a compelling visualization. 
+🚙Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 and use Matplotlib to create a compelling visualization. 
 # Overview:
-The project goal was to analyze all the rideshare data from January to early May of 2019 and create compelling visualizations comparing the city types, urban, suburban, and rural.
+🌇The project goal was to analyze all the rideshare data from January to early May of 2019 and create compelling visualizations comparing the city types, urban, suburban, and rural.
 
 ## Deliverables:
-Fig 1. is a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban in coral, suburban in light blue, and rural in gold. ![Fig 1.](https://github.com/RuthLD/PyBer_Analysis/blob/main/analysis/Fig1.png)
+📊Fig 1. is a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban in coral, suburban in light blue, and rural in gold. ![Fig 1.](https://github.com/RuthLD/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 ### Descriptive statistics:
 The total number of rides for each city type.
